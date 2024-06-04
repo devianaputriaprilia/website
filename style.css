@@ -1,0 +1,40 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-image: url(img/bgcolor.jpg);
+  font-family: sans-serif;
+  height: auto;
+}
+
+.jumbotron img {
+  width: 200px;
+}
+
+.jumbotron {
+  background-color: #e5a0d7;
+  padding: 2rem 1rem;
+}
+
+img {
+  width: 250px;
+  height: 230px;
+}
+
+#project {
+  background-color: #e5a0d7;
+  padding: 2rem 1rem;
+}
+
+.card img {
+  object-fit: cover;
+  object-position: center;
+}
+
+footer {
+  background-color: rgb(29, 122, 204);
+  /* position: relative; */
+  text-align: center;
+  /* position: fixed; */
+  /* bottom: 0px; */
+  width: 100%;
+}
